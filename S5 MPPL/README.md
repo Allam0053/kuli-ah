@@ -35,17 +35,17 @@ Kebutuhan Perangkat Lunak
 ## Discussion Summary outline
 
 1. Project background
-   a. Purpose of project
-   b. Scope of project
-   c. Other background information
+   - Purpose of project
+   - Scope of project
+   - Other background information
 2. Perspectives
-   a. Who will use the system?
-   b. Who can provide input about the system?
+   - Who will use the system?
+   - Who can provide input about the system?
 3. Project Objectives
-   a. Known business rules
-   b. System information and/or diagrams
-   c. Assumptions and dependencies
-   d. Design and implementation constraints
+   - Known business rules
+   - System information and/or diagrams
+   - Assumptions and dependencies
+   - Design and implementation constraints
 4. Risks
 5. Known future enhancements
 6. References
