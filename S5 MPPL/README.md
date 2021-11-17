@@ -113,7 +113,7 @@ Kebutuhan Perangkat Lunak
 - Desain menunjukkan bagaimana persyaratan tersebut akan diterapkan secara
   teknis
 
-## Pengendalian Perubahan
+## Pengendalian Perubahan (esensi MPPL)
 
 - Pengendalian perubahan adalah metode untuk menerapkan
   perubahan yang layak terhadap PL, dan untuk mencegah
@@ -146,3 +146,7 @@ Kebutuhan Perangkat Lunak
     Jika tidak, perubahan akan ditolak dan tim melanjutkan rencana
     awal.
   - CCB menerima atau menolak perubahan tersebut.
+
+# GOAL DARI MANAJEMEN PROYEK PERANGKAT LUNAK
+
+memanajemen seluruh elemen atau sumber daya agar dapat memenuhi kebutuhan terhadap perangkat lunak
