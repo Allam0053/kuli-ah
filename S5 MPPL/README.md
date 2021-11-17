@@ -1,8 +1,8 @@
-## Kuliah TM 12
+# Kuliah TM 12
 
 Kebutuhan Perangkat Lunak
 
-### Kebutuhan Perangkat Lunak
+## Kebutuhan Perangkat Lunak
 
 - Kebutuhan PL (SKPL/SRS) adalah dokumentasi yang secara
   lengkap menjelaskan perilaku yang diperlukan PL sebelum
@@ -17,7 +17,7 @@ Kebutuhan Perangkat Lunak
 - Distribusi ringkasan diskusi untuk memverifikasi data yang dikumpulkan
   dalam wawancara
 
-### Ringkasan Diskusi
+## Ringkasan Diskusi
 
 - Analis kebutuhan dapat menggunakan
   ringkasan diskusi untuk meringkas
@@ -32,7 +32,7 @@ Kebutuhan Perangkat Lunak
   pemula dalam memimpin wawancara
   dan rapat
 
-### Discussion Summary outline
+## Discussion Summary outline
 
 1. Project background
    a. Purpose of project
@@ -51,7 +51,7 @@ Kebutuhan Perangkat Lunak
 6. References
 7. Open, unresolved or TBD issues
 
-### Kasus-kasus Penggunaan
+## Kasus-kasus Penggunaan
 
 - Kasus penggunaan (use case) adalah deskripsi dari interaksi
   spesifik yang mungkin dilakukan pengguna terhadap sistem.
@@ -64,7 +64,7 @@ Kebutuhan Perangkat Lunak
 - Semua cara pengguna berinteraksi dengan PL dapat dijelaskan dengan
   cara ini.
 
-### Kebutuhan Fungsional
+## Kebutuhan Fungsional
 
 - Kebutuhan fungsional menentukan perilaku eksternal
   yang diperlukan dari proyek PL.
@@ -74,7 +74,7 @@ Kebutuhan Perangkat Lunak
   referensi ke dokumen eksternal, dan materi lain yang akan membantu pembaca
   memahami apa yang perlu diterapkan.
 
-### Kebutuhan Non Fungsional
+## Kebutuhan Non Fungsional
 
 - Kebutuhan non fungsional menentukan karakteristik PL tanpa
   mengubah perilakunya.
@@ -87,36 +87,36 @@ Kebutuhan Perangkat Lunak
 - Kebutuhan non fungsional sering disebut sebagai “non-behavioral
   requirements " atau "atribut kualitas perangkat lunak“.
 
-### Spesifikasi Kebutuhan PL (SKPL)
+## Spesifikasi Kebutuhan PL (SKPL)
 
 - SKPL merepresentasikan gambaran lengkap tentang perilaku
   PL yang akan dikembangkan.
 - SRS meliputi:
-  - <p style="color: #63a4ff">Serangkaian kasus penggunaan</p> yang menjelaskan semua interaksi
+  - Serangkaian kasus penggunaan yang menjelaskan semua interaksi
     yang akan dilakukan pengguna dengan PL.
-  - <p style="color: #63a4ff">Semua kebutuhan fungsional</p> yang diperlukan untuk menentukan
+  - Semua kebutuhan fungsional yang diperlukan untuk menentukan
     cara kerja internal perangkat lunak: kalkulasi, detail teknis,
     manipulasi dan pemrosesan data, dan fungsionalitas khusus lainnya
     yang menunjukkan bagaimana kasus penggunaan harus dipenuhi.
-  - <p style="color: #63a4ff">Kebutuhan non fungsional</p>, yang memberikan batasan pada desain
+  - Kebutuhan non fungsional, yang memberikan batasan pada desain
     atau implementasi (seperti persyaratan kinerja, standar kualitas atau
     batasan desain lainnya).
 
-### Kebutuhan PL vs Desain
+## Kebutuhan PL vs Desain
 
 - Sering terjadi kesulitan dalam memahami perbedaan
   antara ruang lingkup, kebutuhan PL, dan desain.
-- <p style="color: #63a4ff">Ruang lingkup</p> (cakupan) menunjukkan kebutuhan organisasi, dan
+- Ruang lingkup (cakupan) menunjukkan kebutuhan organisasi, dan
   didokumentasikan dalam dokumen visi dan ruang lingkup
-- <p style="color: #63a4ff">Kebutuhan PL</p> mendokumentasikan perilaku PL yang akan memenuhi kebutuhan
+- Kebutuhan PL mendokumentasikan perilaku PL yang akan memenuhi kebutuhan
   tersebut
-- <p style="color: #63a4ff">Desain</p> menunjukkan bagaimana persyaratan tersebut akan diterapkan secara
+- Desain menunjukkan bagaimana persyaratan tersebut akan diterapkan secara
   teknis
 
-### Pengendalian Perubahan
+## Pengendalian Perubahan
 
-- Pengendalian perubahan adalah metode untuk <p style="color: #63a4ff">menerapkan
-  perubahan yang layak</p> terhadap PL, dan untuk mencegah
+- Pengendalian perubahan adalah metode untuk menerapkan
+  perubahan yang layak terhadap PL, dan untuk mencegah
   perubahan yang tidak perlu atau terlalu mahal agar tidak
   mengganggu proyek.
   - Pengendalian perubahan dilakukan berdasarkan kesepakatan antara
@@ -129,8 +129,8 @@ Kebutuhan Perangkat Lunak
   terdiri dari pengambil keputusan, PM, perwakilan pemangku
   kepentingan atau pengguna, dan anggota tim terpilih.
   - CCB menganalisis dampak dari semua perubahan yang diminta pada
-    perangkat lunak dan memiliki kewenangan untuk <p style="color: #63a4ff">menyetujui atau
-    menolak</p> permintaan perubahan apapun setelah pengembangan
+    perangkat lunak dan memiliki kewenangan untuk menyetujui atau
+    menolak permintaan perubahan apapun setelah pengembangan
     sedang berlangsung.
   - Sebelum proyek dimulai, daftar anggota CCB harus ditulis dan
     disepakati, dan setiap anggota CCB harus memahami mengapa
